@@ -1,0 +1,13 @@
+bmasadmin:BMASenm01:Sprint
+cbrsadmin:CbrsENM01:Charter 
+cellcomAdmin:CellComENM01:Cellcom
+cvadmin:cvenm01:Chariton-Valley
+cwwAdmin:cwwenm01:Carolina-West-Wireless
+eknadmin:EKNENM01:East-Kentucky-Network
+ftcadmin:ftcenm01:FTC
+hauppadmin:HAUPPENM01:Globecomm
+kswAdmin:kswenm01:King-Street-Wireless
+ntwlsadmin:ntwlsenm01:Nex-Tech-Wireless
+tbayteladmin:tbaytelenm01:Tbaytel
+trial01admin:TrialENM01:Comcast
+vzlabadmin:vzlabenm01:Verizon
